@@ -61,6 +61,7 @@ BackendApplication.java
 ```
 http://localhost:8080/hola
 ```
+<img width="972" height="800" alt="image" src="https://github.com/user-attachments/assets/43fd0d4e-1376-4654-8a4e-74e02115d201" />
 
 ---
 
